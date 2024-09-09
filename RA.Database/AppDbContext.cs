@@ -107,7 +107,7 @@ namespace RA.Database
                 Id = 1,
                 FullName = "Administrator",
                 Username = "admin",
-                Password = "$2a$11$XLzkiZw03i/cqn90F8cgr.EjrnXds.O7quStlYO7RI0H3BFxwg59e",
+                Password = "admin",
                 UserGroupId = 1
             });
         }
